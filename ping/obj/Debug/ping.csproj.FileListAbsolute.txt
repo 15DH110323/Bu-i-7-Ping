@@ -1,0 +1,7 @@
+C:\Users\Panda\Desktop\ping\ping\bin\Debug\ping.exe.config
+C:\Users\Panda\Desktop\ping\ping\bin\Debug\ping.exe
+C:\Users\Panda\Desktop\ping\ping\bin\Debug\ping.pdb
+C:\Users\Panda\Desktop\ping\ping\obj\Debug\ping.csprojResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\ping\ping\obj\Debug\ping.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\ping\ping\obj\Debug\ping.exe
+C:\Users\Panda\Desktop\ping\ping\obj\Debug\ping.pdb
